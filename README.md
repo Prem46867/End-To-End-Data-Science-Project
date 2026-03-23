@@ -26,7 +26,14 @@ The model returns a predicted salary value based on the input experience. This v
 
 Finally, the application is executed using app.run(debug=True). Running the app in debug mode is helpful during development, as it enables automatic reloading and provides detailed error messages. However, this setting should be disabled in a production environment to ensure security and stability.
 
-output of the task :
-
-
 Overall, this script demonstrates a complete workflow for deploying a machine learning model as a web service. It combines backend logic, user input handling, and real-time prediction into a single application. While simple, it effectively showcases how machine learning models can be integrated into web applications to create interactive and practical tools for end users.
+
+output of the task:
+
+<img width="625" height="46" alt="Image" src="https://github.com/user-attachments/assets/cf6d2ea2-8476-4ec6-bf3f-02f948231570" />
+
+<img width="747" height="141" alt="Image" src="https://github.com/user-attachments/assets/ab9d712b-5dbf-48e8-924a-bdd9697a1081" />
+
+<img width="517" height="153" alt="Image" src="https://github.com/user-attachments/assets/a59e1398-086c-4898-9a28-267bd14890b6" />
+
+<img width="447" height="70" alt="Image" src="https://github.com/user-attachments/assets/d32946bc-28b9-415a-816d-89dbf638f5b3" />
